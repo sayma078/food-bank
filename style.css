@@ -1,0 +1,48 @@
+h1{
+    font-size: 50px;
+    color: gray;
+}
+p{
+    color: darkgoldenrod ;
+}
+span{
+    color: rgb(255, 94, 0);
+}
+.class-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange , red)  ;
+    color: aliceblue;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+.flexible-container{
+    display: flex;
+margin-bottom: 150px;
+margin-top: 50px;
+}
+
+.div1-class1{
+    width: 60%;
+    padding-left:10%;
+
+}
+.div2-class2{
+    width: 60%;
+    padding-left: 10%;
+
+}
+.image2{
+    width: 300px;
+}  
+.middle-sec {
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat ;
+}
+.flexible-container2{
+    display: flex;
+margin-bottom: 100px;
+margin-top: 100px;
+}
+
+
