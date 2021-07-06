@@ -3,6 +3,7 @@ h1{
     color: gray;
 }
 p{
+    font-size: 20px;
     color: darkgoldenrod ;
 }
 span{
@@ -10,7 +11,7 @@ span{
 }
 .class-button{
     text-decoration: none;
-    background-image: linear-gradient(orange , red)  ;
+    background-image: linear-gradient( red ,rgb(241, 99, 122))  ;
     color: aliceblue;
     font-weight: 700;
     padding: 10px 20px;
@@ -73,6 +74,10 @@ margin-top: 50px;
     display: flex;
 margin-bottom: 100px;
 margin-top: 5px;
+}
+.recipe{
+    padding-left: 30%;
+    width: 50%;
 }
 
 
