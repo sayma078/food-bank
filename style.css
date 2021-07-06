@@ -18,31 +18,61 @@ span{
 }
 .flexible-container{
     display: flex;
-margin-bottom: 150px;
+margin-bottom: 100px;
 margin-top: 50px;
 }
 
-.div1-class1{
+.div-fclass{
     width: 60%;
-    padding-left:10%;
+    padding-left:7%;
 
 }
-.div2-class2{
+.div-sclass{
+    width: 60%;
+    padding-right:10% ;
+    background-image: url(images/shapes/Group\ 8447.png);
+    background-repeat: no-repeat;
+    background-size: 350px;
+    background-position: center;
+    
+  
+}
+
+
+.div-sclass img{
+    width:320px;
+    padding-left: 31%;
+    padding-top: 15%;
+  
+}
+.pic{
     width: 60%;
     padding-left: 10%;
+    padding-top: 5%;
 
+}
+.text{
+   
+    width:40%;
+    padding-right:10%;
+    padding-top: 10%;
+ 
 }
 .image2{
     width: 300px;
 }  
 .middle-sec {
-    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-position: center;
     background-repeat: no-repeat ;
+    background-size:100% ;
+
+
 }
 .flexible-container2{
     display: flex;
 margin-bottom: 100px;
-margin-top: 100px;
+margin-top: 5px;
 }
 
 
